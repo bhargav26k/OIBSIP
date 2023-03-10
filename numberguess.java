@@ -107,7 +107,7 @@ public class numberGuessinggame {
 
 	                System.out.println();
 
-	                System.out.print("Would you like to play again? yes or no : ");
+	                System.out.print("Want to play again? yes or no : ");
 
 	                play = sc.next().toLowerCase();
 
